@@ -1,0 +1,16 @@
+{
+  "name": "pinterest-api-v3",
+  "version": "0.0.9",
+  "description": "Pinterest API v3",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "pinterest",
+    "rest",
+    "api"
+  ],
+  "author": "Neel Singh",
+  "license": "ISC"
+}
